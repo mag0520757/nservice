@@ -1,0 +1,48 @@
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Messages\bin\Debug\net6.0\Sales.Messages.deps.json
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Messages\bin\Debug\net6.0\Sales.Messages.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Messages\bin\Debug\net6.0\Sales.Messages.pdb
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Messages\obj\Debug\net6.0\Sales.Messages.csproj.AssemblyReference.cache
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Messages\obj\Debug\net6.0\Sales.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Messages\obj\Debug\net6.0\Sales.Messages.AssemblyInfoInputs.cache
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Messages\obj\Debug\net6.0\Sales.Messages.AssemblyInfo.cs
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Messages\obj\Debug\net6.0\Sales.Messages.csproj.CoreCompileInputs.cache
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Messages\obj\Debug\net6.0\Sales.Messages.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Messages\obj\Debug\net6.0\refint\Sales.Messages.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Messages\obj\Debug\net6.0\Sales.Messages.pdb
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Messages\obj\Debug\net6.0\ref\Sales.Messages.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MsSqlServer\Subscription_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MsSqlServer\Subscription_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MsSqlServer\Timeout_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MsSqlServer\Timeout_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MySql\Outbox_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MySql\Outbox_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MySql\Subscription_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MySql\Subscription_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MySql\Timeout_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MySql\Timeout_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\Oracle\Outbox_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\Oracle\Outbox_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\Oracle\Subscription_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\Oracle\Subscription_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\Oracle\Timeout_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\Oracle\Timeout_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\PostgreSql\Outbox_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\PostgreSql\Outbox_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\PostgreSql\Subscription_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\PostgreSql\Subscription_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\PostgreSql\Timeout_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\NServiceBus.Persistence.Sql\PostgreSql\Timeout_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\Sales.Messages.deps.json
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\Sales.Messages.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\bin\Debug\net6.0\Sales.Messages.pdb
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\obj\Debug\net6.0\Sales.Messages.csproj.AssemblyReference.cache
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\obj\Debug\net6.0\Sales.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\obj\Debug\net6.0\Sales.Messages.AssemblyInfoInputs.cache
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\obj\Debug\net6.0\Sales.Messages.AssemblyInfo.cs
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\obj\Debug\net6.0\Sales.Messages.csproj.CoreCompileInputs.cache
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\obj\Debug\net6.0\Sales.Messages.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\obj\Debug\net6.0\refint\Sales.Messages.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\obj\Debug\net6.0\Sales.Messages.pdb
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Messages\obj\Debug\net6.0\ref\Sales.Messages.dll

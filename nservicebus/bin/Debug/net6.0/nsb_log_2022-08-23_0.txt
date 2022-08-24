@@ -1,0 +1,114 @@
+﻿2022-08-23 12:08:21.968 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 12:08:22.694 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 12:08:23.490 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 12:08:23.519 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 12:10:43.022 INFO  Sending PlaceOrder command, OrderId = 8872706c-0511-4b87-9baa-3e80c4e810e0
+2022-08-23 12:10:43.159 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 12:12:29.887 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 12:12:30.651 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 12:12:31.659 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 12:12:31.707 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 12:12:36.326 INFO  Sending PlaceOrder command, OrderId = 78db68a8-00e8-424c-963d-391ec9124363
+2022-08-23 12:12:36.471 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 12:12:52.842 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 12:12:53.787 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 12:12:54.870 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 12:12:54.876 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 12:13:10.320 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 12:13:11.162 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 12:13:12.122 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 12:13:12.127 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 12:13:52.831 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 12:13:53.613 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 12:13:54.423 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 12:13:54.434 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 12:15:10.300 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 12:15:10.984 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 12:15:11.953 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 12:15:11.981 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 12:18:34.024 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 12:18:35.011 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 12:18:35.527 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 12:18:35.532 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 12:19:10.958 INFO  Sending PlaceOrder command, OrderId = 90c259ab-12ac-4b8f-bdba-a70d839ad685
+2022-08-23 12:19:11.055 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 12:21:04.213 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 12:21:04.835 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 12:21:05.545 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 12:21:05.555 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 12:21:28.775 INFO  Sending PlaceOrder command, OrderId = 93e88506-a9ad-4209-ada5-7ebcac7d7f21
+2022-08-23 12:21:28.868 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 12:59:51.780 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 12:59:52.588 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 12:59:53.249 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 12:59:53.273 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 13:00:07.812 INFO  Sending PlaceOrder command, OrderId = e41ce5b9-6235-486d-8f55-b5af8d0338ec
+2022-08-23 13:00:07.903 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 13:01:53.108 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 13:01:53.792 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 13:01:54.468 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 13:01:54.473 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 13:02:19.980 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 13:02:20.800 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 13:02:21.548 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 13:02:21.562 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 13:02:29.488 INFO  Sending PlaceOrder command, OrderId = bd453ebf-bb32-4706-81ea-3b536e067fc0
+2022-08-23 13:02:29.633 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 13:03:08.766 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 13:03:08.905 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 13:03:09.076 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 13:03:09.078 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 13:03:14.900 INFO  Sending PlaceOrder command, OrderId = b207d789-f2e4-43a8-b5e7-40ef38856fc0
+2022-08-23 13:03:14.966 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 13:03:20.739 INFO  Sending PlaceOrder command, OrderId = 20a61e71-f2b0-4c55-859f-0834a6057d9d
+2022-08-23 13:03:20.743 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 13:03:24.751 INFO  Sending PlaceOrder command, OrderId = 58e27580-d556-4f71-8fb8-abbab6315d42
+2022-08-23 13:03:24.755 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 15:26:40.435 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 15:26:40.612 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 15:26:40.884 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 15:26:40.887 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 15:27:34.094 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 15:27:34.666 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 15:27:35.165 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 15:27:35.168 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 15:27:44.835 INFO  Sending PlaceOrder command, OrderId = 2cb2a2c2-f908-416b-8f88-b6ddc56be0ac
+2022-08-23 15:27:44.968 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 15:28:03.561 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 15:28:03.823 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 15:28:04.372 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 15:28:04.381 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 15:29:10.337 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 15:29:10.724 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 15:29:11.259 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 15:29:11.282 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 15:29:29.492 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 15:29:30.168 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 15:29:30.715 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 15:29:30.722 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 15:29:37.734 INFO  Sending PlaceOrder command, OrderId = 6cce6581-15ab-4696-bb7c-d74e5f34823d
+2022-08-23 15:29:37.859 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 15:30:07.074 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 15:30:07.626 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 15:30:08.037 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 15:30:08.042 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 15:30:20.310 INFO  Sending PlaceOrder command, OrderId = 27bfc25d-9486-4fd7-96fa-e8b838663837
+2022-08-23 15:30:20.388 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 15:33:01.867 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 15:33:02.062 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 15:33:02.308 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 15:33:02.312 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 15:33:20.712 INFO  Sending PlaceOrder command, OrderId = 5f1bd232-8f97-47f8-bfce-39f3d07d6d55
+2022-08-23 15:33:20.788 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 15:36:04.803 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 15:36:05.010 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 15:36:05.244 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 15:36:05.248 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 15:36:15.919 INFO  Sending PlaceOrder command, OrderId = c94f8c1b-c147-46a4-bd60-cb2680539804
+2022-08-23 15:36:15.995 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 15:41:41.537 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 15:41:42.082 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 15:41:42.564 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-23 15:41:42.569 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-23 15:41:58.264 INFO  Sending PlaceOrder command, OrderId = a5c1bd8b-4deb-473c-86e2-daa90fff1213
+2022-08-23 15:41:58.339 INFO  Press 'P' to place an order, or 'Q' to quit.

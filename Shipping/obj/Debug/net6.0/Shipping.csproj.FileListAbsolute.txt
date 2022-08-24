@@ -1,0 +1,96 @@
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\Shipping.exe
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\Shipping.deps.json
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\Shipping.runtimeconfig.json
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\Shipping.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\Shipping.pdb
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Core.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\Billing.Messages.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\Sales.Messages.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\Billing.Messages.pdb
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\bin\Debug\net6.0\Sales.Messages.pdb
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\obj\Debug\net6.0\Shipping.csproj.AssemblyReference.cache
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\obj\Debug\net6.0\Shipping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\obj\Debug\net6.0\Shipping.AssemblyInfoInputs.cache
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\obj\Debug\net6.0\Shipping.AssemblyInfo.cs
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\obj\Debug\net6.0\Shipping.csproj.CoreCompileInputs.cache
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\obj\Debug\net6.0\Shipping.csproj.CopyComplete
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\obj\Debug\net6.0\Shipping.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\obj\Debug\net6.0\refint\Shipping.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\obj\Debug\net6.0\Shipping.pdb
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\obj\Debug\net6.0\Shipping.genruntimeconfig.cache
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Shipping\obj\Debug\net6.0\ref\Shipping.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\Shipping.exe
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\Shipping.deps.json
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\Shipping.runtimeconfig.json
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\Shipping.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\Shipping.pdb
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Core.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\Billing.Messages.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\Sales.Messages.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\Billing.Messages.pdb
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\Sales.Messages.pdb
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\obj\Debug\net6.0\Shipping.csproj.AssemblyReference.cache
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\obj\Debug\net6.0\Shipping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\obj\Debug\net6.0\Shipping.AssemblyInfoInputs.cache
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\obj\Debug\net6.0\Shipping.AssemblyInfo.cs
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\obj\Debug\net6.0\Shipping.csproj.CoreCompileInputs.cache
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\obj\Debug\net6.0\Shipping.csproj.CopyComplete
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\obj\Debug\net6.0\Shipping.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\obj\Debug\net6.0\refint\Shipping.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\obj\Debug\net6.0\Shipping.pdb
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\obj\Debug\net6.0\Shipping.genruntimeconfig.cache
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\obj\Debug\net6.0\ref\Shipping.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MsSqlServer\Subscription_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MsSqlServer\Subscription_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MsSqlServer\Timeout_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MsSqlServer\Timeout_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MySql\Outbox_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MySql\Outbox_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MySql\Subscription_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MySql\Subscription_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MySql\Timeout_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\MySql\Timeout_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\Oracle\Outbox_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\Oracle\Outbox_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\Oracle\Subscription_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\Oracle\Subscription_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\Oracle\Timeout_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\Oracle\Timeout_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\PostgreSql\Outbox_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\PostgreSql\Outbox_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\PostgreSql\Subscription_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\PostgreSql\Subscription_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\PostgreSql\Timeout_Create.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql\PostgreSql\Timeout_Drop.sql
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\NServiceBus.Persistence.Sql.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Shipping\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

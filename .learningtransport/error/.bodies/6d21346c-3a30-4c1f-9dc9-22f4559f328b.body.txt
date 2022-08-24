@@ -1,0 +1,1 @@
+<?xml version="1.0"?><PlaceOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/Sales.Messages"><OrderId>27bfc25d-9486-4fd7-96fa-e8b838663837</OrderId></PlaceOrder>

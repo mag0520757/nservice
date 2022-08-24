@@ -1,0 +1,50 @@
+﻿2022-08-23 12:08:21.834 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 12:08:22.600 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 12:12:29.504 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 12:12:30.409 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 12:12:51.708 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 12:12:53.134 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 12:13:09.121 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 12:13:10.260 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 12:13:52.045 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 12:13:53.223 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 12:15:09.418 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 12:15:10.553 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 12:15:15.545 INFO  Received OrderPlaced, OrderId = 78db68a8-00e8-424c-963d-391ec9124363 - Charging credit card...
+2022-08-23 12:18:32.993 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 12:18:33.883 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 12:21:03.608 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 12:21:04.529 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 12:59:51.097 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 12:59:51.463 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 13:00:08.573 INFO  Received OrderPlaced, OrderId = e41ce5b9-6235-486d-8f55-b5af8d0338ec - Charging credit card...
+2022-08-23 13:01:52.304 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 13:01:53.231 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 13:02:19.474 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 13:02:20.281 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 13:03:08.133 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 13:03:08.398 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 13:03:09.553 INFO  Received OrderPlaced, OrderId = bd453ebf-bb32-4706-81ea-3b536e067fc0 - Charging credit card...
+2022-08-23 13:03:14.992 INFO  Received OrderPlaced, OrderId = b207d789-f2e4-43a8-b5e7-40ef38856fc0 - Charging credit card...
+2022-08-23 13:03:20.770 INFO  Received OrderPlaced, OrderId = 20a61e71-f2b0-4c55-859f-0834a6057d9d - Charging credit card...
+2022-08-23 13:03:24.823 INFO  Received OrderPlaced, OrderId = 58e27580-d556-4f71-8fb8-abbab6315d42 - Charging credit card...
+2022-08-23 15:26:38.141 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 15:26:38.687 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 15:27:33.868 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 15:27:34.116 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 15:28:03.283 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 15:28:03.506 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 15:29:10.078 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 15:29:10.336 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 15:29:29.251 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 15:29:29.750 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 15:29:32.022 INFO  Received OrderPlaced, OrderId = 2cb2a2c2-f908-416b-8f88-b6ddc56be0ac - Charging credit card...
+2022-08-23 15:29:37.893 INFO  Received OrderPlaced, OrderId = 6cce6581-15ab-4696-bb7c-d74e5f34823d - Charging credit card...
+2022-08-23 15:30:06.782 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 15:30:07.069 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 15:33:00.383 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 15:33:00.948 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 15:36:02.729 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 15:36:02.975 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-23 15:41:41.035 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\Billing\bin\Debug\net6.0\' with level Info
+2022-08-23 15:41:41.323 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.

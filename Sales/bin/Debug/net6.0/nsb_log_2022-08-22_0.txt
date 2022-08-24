@@ -1,0 +1,3 @@
+﻿2022-08-22 10:49:17.022 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\nservicebus\Sales\bin\Debug\net6.0\' with level Info
+2022-08-22 10:49:17.244 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-22 10:50:36.274 INFO  Received PlaceOrder, OrderId = b345d156-49eb-474b-81e2-20fa7ddcd127

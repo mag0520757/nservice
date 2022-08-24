@@ -1,0 +1,36 @@
+﻿2022-08-24 10:57:05.695 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-24 10:57:06.436 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-24 10:57:07.137 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-24 10:57:07.145 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-24 10:57:21.104 INFO  Sending PlaceOrder command, OrderId = bcdeceac-3a36-4d1d-996a-07d82ddb0e3a
+2022-08-24 10:57:21.255 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-24 11:04:04.509 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-24 11:04:05.655 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-24 11:04:06.655 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-24 11:04:06.683 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-24 11:04:08.743 INFO  Sending PlaceOrder command, OrderId = 535ae7a7-0e7a-452d-8abe-a1a949d3917a
+2022-08-24 11:04:08.900 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-24 11:12:38.982 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-24 11:12:39.545 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-24 11:12:40.527 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-24 11:12:40.535 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-24 11:12:43.484 INFO  Sending PlaceOrder command, OrderId = 7595373e-6335-4cb4-981e-757f5dcc14a5
+2022-08-24 11:12:43.624 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-24 11:14:54.831 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-24 11:14:55.353 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-24 11:14:56.277 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-24 11:14:56.286 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-24 11:15:20.464 INFO  Sending PlaceOrder command, OrderId = 9918ea59-ae04-4ed2-967a-1c3b664714ec
+2022-08-24 11:15:20.620 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-24 11:17:06.710 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-24 11:17:07.171 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-24 11:17:07.935 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-24 11:17:08.054 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-24 11:17:17.176 INFO  Sending PlaceOrder command, OrderId = a665a778-d865-4e1f-aae0-e3f994dc1272
+2022-08-24 11:17:17.323 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-24 11:18:30.598 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-24 11:18:31.169 INFO  No valid license could be found. Falling back to trial license with start date '2022-08-19'.
+2022-08-24 11:18:32.280 INFO  Logging to 'C:\Users\user\מה שיש בשולחן עבודה\בוטקמפ\week 8 nseervice\nservicebus\nservicebus\bin\Debug\net6.0\' with level Info
+2022-08-24 11:18:32.301 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-08-24 11:18:38.645 INFO  Sending PlaceOrder command, OrderId = 2302ed2e-2ddf-49f1-a49c-7dfefaff6e7f
+2022-08-24 11:18:38.780 INFO  Press 'P' to place an order, or 'Q' to quit.
